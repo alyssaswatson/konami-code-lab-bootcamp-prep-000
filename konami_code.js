@@ -12,7 +12,8 @@ function init() {
         index = 0;
       }
     } else {
-      index =0;
+      index = 0;
     }
   }
+}
 }
